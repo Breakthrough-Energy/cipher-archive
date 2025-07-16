@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 444 551">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        font-size: 8px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #181818;
+      }
+
+      .cls-3, .cls-6 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-10 {
+        fill: #4f6ab1;
+      }
+
+      .cls-11 {
+        fill: #f8f6f1;
+      }
+
+      .cls-5 {
+        font-size: 16px;
+      }
+
+      .cls-5, .cls-7 {
+        font-family: Georgia-Bold, Georgia;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        stroke: #f8f6f1;
+        stroke-width: 3px;
+      }
+
+      .cls-6 {
+        font-size: 15px;
+      }
+
+      .cls-7 {
+        fill: #1a1a1a;
+        font-size: 26px;
+      }
+
+      .cls-8 {
+        fill: #1970ff;
+      }
+
+      .cls-8, .cls-9 {
+        opacity: .3;
+      }
+
+      .cls-9 {
+        fill: #9e1a1a;
+      }
+
+      .cls-12 {
+        fill: #151c2c;
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="8.3" y="523.1" width="21.4" height="18.7"/>
+    </clipPath>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.2, SVG Export Plug-In . SVG Version: 1.2.0 Build 154)  -->
+  <g>
+    <g id="Layer_1">
+      <g id="ai2html-settings1" class="cls-4">
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 483.7)"><tspan x="0" y="0">ai2html-settings</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 501.7)"><tspan x="0" y="0">settings_version: 0.56</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 519.7)"><tspan x="0" y="0">image_format: png</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 537.7)"><tspan x="0" y="0">responsiveness: fixed</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 555.7)"><tspan x="0" y="0">output: one-file</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 573.7)"><tspan x="0" y="0">create_promo_images: false</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 591.7)"><tspan x="0" y="0">html_output_path: /ai2html-output/</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 609.7)"><tspan x="0" y="0">html_output_extension: .html</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 627.7)"><tspan x="0" y="0">html_output_path: ../_includes/</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 645.7)"><tspan x="0" y="0">image_output_path: ../images/</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 663.7)"><tspan x="0" y="0">image_source_path: images/</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 681.7)"><tspan x="0" y="0">local_preview_template:</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 699.7)"><tspan x="0" y="0">png_number_of_colors: 128</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 717.7)"><tspan x="0" y="0">jpg_quality: 60</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 735.7)"><tspan x="0" y="0">headline: Ai Graphic Headline</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 753.7)"><tspan x="0" y="0">leadin: Introductory text here.</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 771.7)"><tspan x="0" y="0">notes: Notes: Text goes here.</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 807.7)"><tspan x="0" y="0">sources: Source: Cipher/Tory Lysik.</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-6" transform="translate(-3076.5 825.7)"><tspan x="0" y="0">credit: By ai2html</tspan></text>
+        </g>
+      </g>
+      <rect class="cls-11" y=".2" width="442" height="550.8"/>
+      <rect class="cls-9" x="273.3" y="87.6" width="159.2" height="459.2"/>
+      <rect class="cls-8" x="114.1" y="87.6" width="159.2" height="459.2"/>
+      <path class="cls-9" d="M332.3,59c-4.5.8-8.6,1.3-12.2-1.8,6.8-1.5,8-6,8.2-11,.2-3.8-.6-7.5-2.4-11.1-1-2.1-1.9-4.4-2.1-6.6-.4-4.3,1.4-7.8,6-9.9,1.5-.7,3.1-1.3,4.8-2,.3,0,.4-.1.6-.2s.4-.1.7-.2c.5-.2,1-.3,1.5-.5,1.5-.5,2.9-.9,4.5-1.4.7-.4,1.3-.7,2-1.1.1,0,.2-.1.3-.2.2-.1.3-.2.5-.3.8-.4,1.6-.7,2.5-1.1.3,0,.4,0,.6-.2.2,0,.3,0,.5-.1.4,0,.6-.1,1-.2.3,0,.6,0,.9-.1.9-.1,1.7-.2,2.6-.3h.8c.6,0,1.1,0,1.8-.2.6,0,1.1-.1,1.7-.1s.9,0,1.4-.1h6.9c.5,0,.8,0,1.3.1.4,0,.6.1,1,.2.3,0,.5,0,.8.1.3,0,.5.2.8.2h.5c.2,0,.3.1.6.2,3.5.9,6.8,1.8,10.2,2.7.3,0,.7.6.7.9.1,1.8-1,2.9-2.8,3.6-.9.3-1.8.5-3.1.9.7.9,1.1,1.8,1.9,2.5,1.9,1.6,3.1,3.4,2.7,5.9-.1.7.6,1.7,1.2,2.3,1.5,1.4,3.2,2.5,4.6,3.9,1,1,2.4,2.3,2.3,3.5,0,1.8-2.2,2.3-4.4,2.6.4.6.7,1,.9,1.5.6,1.4,1.4,2.5,1.1,4.4-.2,1.5-1.3,3.6.6,5.5,2,2,.3,4-2.3,5.8-3.7,2.7-7.9,5-10.5,8.7-2,2.8-2.8,3.2-5.3,3.8,0,1.5.2,2.9,1.5,4.2,3.9,3.9,6.8,8.5,9,13.4-19.6,0-39.1,0-58.5,0,3-9.7,6.9-19.2,12-28.5h0v.2Z"/>
+      <path class="cls-8" d="M221.2,87.4h-53.5c-.1-.2-.3-.5-.4-.8-.1-.4-.4-.5-.6-.8-.1-.3-.3-.6-.4-.9-.2-.7-.4-1.5-.5-2.2-.1-.5-.3-1-.4-1.6v-.8c0-.5.2-1,.1-1.6v-.2c.4-.5.5-1.1.7-1.7,0,0,0-.3.2-.3.2,0,.2-.3.3-.5,0-.2.2-.4.3-.6s.2-.4.4-.5c.3-.2.4-.6.6-.8.4-.4.7-.9,1.1-1.3l.4-.2s.2,0,.3-.2c0,0,.2.2.3,0,0,0,.1,0,.2-.2.2,0,.4,0,.6-.2,0,0,.2-.3.1-.4-.3-.8-.5-1.5-.9-2.2-.6-1.3-1-2.6-.9-4,0-1-.3-1.7-.7-2.4-.5-.7-.8-1.6-.9-2.5,0-.8,0-1.6.4-2.3.3-.6.5-1.2.7-1.9.4-1.4.7-2.9,1-4.3.1-.6.3-1.1.5-1.7,0,0,0-.2.1-.4,0-.6.3-1.2.5-1.7v-.2c0-.2.2-.5.3-.7.1-.5.3-.9.4-1.4.3-1,.2-2,.2-3s-.1-2.4,0-3.7c.2-1.3.3-2.6.5-3.9.1-.8.4-1.5.6-2.3.2-.7.4-1.4.6-2.1.4-1.3.9-2.5,1.4-3.8.7-1.8,1.8-3.4,2.9-4.9.9-1.1,1.7-2.3,2.5-3.5.4-.6.8-1.1,1.3-1.6,1.1-1.1,2.1-2.3,3.2-3.4.9-.8,1.9-1.4,2.9-2,.8-.5,1.7-.9,2.6-1.2.6-.2,1.3-.3,1.9-.4.9-.1,1.7-.2,2.6-.3h3c1.1,0,2.2.1,3.3.2.7,0,1.4,0,2,.2h.2c.9.4,1.8.2,2.6.2h4.1c.6,0,1.3,0,1.9.1h.1c.9-.1,1.7,0,2.6.3.7.1,1.4.4,2.1.7.8.4,1.3,1,1.5,1.9.1.8.3,1.6.5,2.4-.3.6.3.5.5.8.4.4.8.8,1.2,1.2.4.4.7.7,1.1,1.1.6.8,1.1,1.6,1.6,2.5.5,1.1,1.1,2.1,1.8,3,.8,1,1.4,2.2,1.5,3.6v2.3c0,.8-.3,1.4,0,2.1.2.4.5.8.8,1.2.8.9,1.5,1.7,2.3,2.6.6.7,1.2,1.3,1.8,2,.6.8,1.2,1.5,1.8,2.3.4.5.2,1.6-.1,2.2-.5.9-1.4,1.4-2.2,1.9,0,0-.2,0-.3.2.3.8.5,1.5.8,2.3.1.3.1.6.2.9,0,.2,0,.3.1.5.4.8.4,1.6,0,2.4h0c0,.2-.2.4-.2.5s.2.2.4.3c.4.4.7.8.7,1.5v.9c0,.4-.2.7-.5.8-.3.2-.4.5-.3.9.2.8.4,1.6.6,2.5.1.5.2,1.1.1,1.6,0,.8-.1,1.7-.5,2.5-.6,1.2-1.2,2.3-2.5,2.7-1.1.3-2.1.6-3.2.7-.7,0-1.4,0-2.1.3-1.3.4-2.4,1.2-3.3,2.4-.6,1-1.3,1.9-2,2.9-.2.3-.5.6-.7.9-.4.4-.7.8-1.1,1.3-.1.2-.2.5-.3.8s0,.5,0,.8v3.6c0,.5.1,1,.4,1.4.8,1.4,1.6,2.9,2.5,4.3.5.9,1.1,1.8,1.6,2.7h0v.3Z"/>
+      <line class="cls-2" x1="113.4" y1="87.8" x2="431.9" y2="87.8"/>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(30.2 112.2) scale(1.1 1)"><tspan x="0" y="0">Inflation</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(17 127.5) scale(1.1 1)"><tspan x="0" y="0">Reduction</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(79.1 143.5) scale(1.1 1)"><tspan x="0" y="0">Act</tspan></text>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(121.2 104) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Continue all current tax credits </tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 114.3) scale(1.1 1)"><tspan x="0" y="0">and regulations and focus on</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 124.3) scale(1.1 1)"><tspan x="0" y="0">creating jobs through clean</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 134.3) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">energy initiatives   </tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(280.5 104) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  End solar and wind tax credits</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(280.5 113.5) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Broaden hydrogen tax credit</tspan></text>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 124) scale(1.1 1)"><tspan x="0" y="0">rule to encompass fossil</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 133.5) scale(1.1 1)"><tspan x="0" y="0">fuel sources</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(280.5 144) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Eliminate Office of Clean</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(288.2 154) scale(1.1 1)"><tspan x="0" y="0">Energy Demonstrations</tspan></text>
+      </g>
+      <line class="cls-2" x1="113.6" y1="163.6" x2="432.1" y2="163.6"/>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(42.9 193.9) scale(1.1 1)"><tspan x="0" y="0">Carbon</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(62.8 208.2) scale(1.1 1)"><tspan x="0" y="0">tax &amp;</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(44.9 224.2) scale(1.1 1)"><tspan x="0" y="0">pricing</tspan></text>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(280.5 179.7) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Oppose taxes on domestic </tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 189.6) scale(1.1 1)"><tspan x="0" y="0">energy-intensive goods</tspan></text>
+        </g>
+      </g>
+      <line class="cls-2" x1="113.4" y1="363.7" x2="432" y2="363.7"/>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(39.6 386.8) scale(1.1 1)"><tspan x="0" y="0">Climate</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(50 402.9) scale(1.1 1)"><tspan x="0" y="0">justice</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(121.2 379.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Continue Biden-era </tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(128.6 390.5) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">environmental justice initiative  </tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(128.6 401.2) scale(1.1 1)"><tspan x="0" y="0">directing 40% of federal</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(128.6 411.9) scale(1.1 1)"><tspan x="0" y="0">spending to disadvantaged</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(128.6 421.9) scale(1.1 1)"><tspan x="0" y="0">communities</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(121.2 432.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Finish setting up the Office of </tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(128.6 443.5) scale(1.1 1)"><tspan x="0" y="0">Environmental Justice and</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(128.6 454.2) scale(1.1 1)"><tspan x="0" y="0">External Civil Rights,</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(128.6 464.9) scale(1.1 1)"><tspan x="0" y="0">established in 2022</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(280.5 379.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Eliminate Biden-era </tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(288.2 389.7) scale(1.1 1)"><tspan x="0" y="0">environmental justice initiative</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(288.2 400.2) scale(1.1 1)"><tspan x="0" y="0">directing 40% of federal</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(288.2 409.8) scale(1.1 1)"><tspan x="0" y="0">spending to disadvantaged</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(288.2 420.3) scale(1.1 1)"><tspan x="0" y="0">communities</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(39.6 325) scale(1.1 1)"><tspan x="0" y="0">Climate</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(73 341) scale(1.1 1)"><tspan x="0" y="0">risk</tspan></text>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(121.2 315) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Defend Biden-era rule (in </tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 325.1) scale(1.1 1)"><tspan x="0" y="0">appellate court)</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 334.6) scale(1.1 1)"><tspan x="0" y="0">requiring large companies to</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 344.1) scale(1.1 1)"><tspan x="0" y="0">disclose risks from climate</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(280.5 315) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Withdraw Biden-era rule </tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 324.3) scale(1.1 1)"><tspan x="0" y="0">requiring large public</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 334.8) scale(1.1 1)"><tspan x="0" y="0">companies to disclose their</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 344.3) scale(1.1 1)"><tspan x="0" y="0">risks from climate change</tspan></text>
+        </g>
+      </g>
+      <line class="cls-2" x1="109.6" y1="298.9" x2="428.1" y2="298.9"/>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(39.6 273.5) scale(1.1 1)"><tspan x="0" y="0">Climate</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(15.9 287.8) scale(1.1 1)"><tspan x="0" y="0">diplomacy</tspan></text>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(121.2 268.3) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Maintain U.S. voice and </tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 278.6) scale(1.1 1)"><tspan x="0" y="0">leadership at UN and in other</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 287.9) scale(1.1 1)"><tspan x="0" y="0">global climate conversations</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(280.5 268.3) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Step back from global climate </tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 277.8) scale(1.1 1)"><tspan x="0" y="0">talks, block U.S. contribution</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 287.3) scale(1.1 1)"><tspan x="0" y="0">to UN’s Green Climate Fund</tspan></text>
+        </g>
+      </g>
+      <line class="cls-2" x1="112.8" y1="252.2" x2="431.4" y2="252.2"/>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 353) scale(1.1 1)"><tspan x="0" y="0">change</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(126.6 522.3) scale(1.1 1)"><tspan x="0" y="0">disadvantaged, rural or tribal</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(126.6 533) scale(1.1 1)"><tspan x="0" y="0">communities</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(288.2 530.3) scale(1.1 1)"><tspan x="0" y="0">like nuclear, oil and gas</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(63.4 496.6) scale(1.1 1)"><tspan x="0" y="0">Loan</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(29.8 513.5) scale(1.1 1)"><tspan x="0" y="0">Program</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-5" transform="translate(55.6 532.3) scale(1.1 1)"><tspan x="0" y="0">Office</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(119.2 490.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Continue the office’s focus on </tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(126.6 500.9) scale(1.1 1)"><tspan x="0" y="0">clean energy technologies,</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(126.6 511.6) scale(1.1 1)"><tspan x="0" y="0">with most funds going to</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(280.4 490.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Freeze activities, or possibly  </tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(288.2 500.7) scale(1.1 1)"><tspan x="0" y="0">redirect loan activity to</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(288.2 511.2) scale(1.1 1)"><tspan x="0" y="0">technologies boosting</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(288.2 520.7) scale(1.1 1)"><tspan x="0" y="0">American energy independence,</tspan></text>
+      </g>
+      <line class="cls-2" x1="113.8" y1="474.7" x2="432.4" y2="474.7"/>
+      <g class="cls-4">
+        <text class="cls-7" transform="translate(26.2 30.5) scale(1.1 1)"><tspan x="0" y="0">Cross</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-7" transform="translate(6.5 56.6) scale(1.1 1)"><tspan x="0" y="0">cutting</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-7" transform="translate(19.7 82.8) scale(1.1 1)"><tspan x="0" y="0">issues</tspan></text>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(280.5 199.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Impose carbon tax on Chinese</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 208.9) scale(1.1 1)"><tspan x="0" y="0">imports</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 230.6) scale(1.1 1)"><tspan x="0" y="0">carbon pollution in federal</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(288.2 241.6) scale(1.1 1)"><tspan x="0" y="0">rulemaking</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(280.5 220.2) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Stop assessing impacts of </tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(121.2 179.7) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Oppose carbon taxes on</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 189.2) scale(1.1 1)"><tspan x="0" y="0">domestic energy-intensive</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 199.2) scale(1.1 1)"><tspan x="0" y="0">goods</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(121.2 220.2) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Continue assessing the</tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 230.3) scale(1.1 1)"><tspan x="0" y="0">impacts of carbon pollution in</tspan></text>
+        </g>
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(129.1 240.3) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">federal rulemaking   </tspan></text>
+        </g>
+      </g>
+      <g class="cls-4">
+        <g class="cls-4">
+          <text class="cls-3" transform="translate(121.2 209.9) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">•  Consider carbon tax on imports </tspan></text>
+        </g>
+      </g>
+      <g>
+        <g class="cls-13">
+          <path class="cls-12" d="M29.5,528.5c0-.6-.2-1.3-.6-1.8-2.8-3.5-7.2-3.4-8.7-3.4-8.2,0-11.6,6.3-11.6,10.6s.6,4.6,1.7,6.4h0c.3.5.5.8.8,1.2,0,0,5.4-2.4,6-2.8-.2-.3-1-1.8-1-5.4s0-7.9,3.7-8.7c3.1-.6,3.5,1,2.7,2.3-.3.4-.9.9-.9,2,0,1.8,1.5,3,3.5,3.1,2.2,0,4.1-1.4,4.2-3.3v-.2h.2Z"/>
+        </g>
+        <path class="cls-12" d="M11,541.4c1.9,2.2,5,3.6,9.1,3.6,8.1,0,10.5-4.7,10.5-4.7l-.3-.2c-2.7,3.5-11.5,4.4-13.2-1.5"/>
+        <polygon class="cls-10" points="33.1 530.7 5.2 543.4 5.2 545.4 33.1 532.6 33.1 530.7"/>
+      </g>
+    </g>
+  </g>
+</svg>
